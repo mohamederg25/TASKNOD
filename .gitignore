@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec.bak
+.smoke-data/
+.logic-data/
+.controller-data/
+tasks.db
+tasks.db-wal
+tasks.db-shm
+config.json
+tasknudge.log
